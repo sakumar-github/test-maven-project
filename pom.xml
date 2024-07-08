@@ -17,7 +17,14 @@
 		<version>2.0.3.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<java.version>17</java.version>
+		<sonar.host.url>http://20.244.1.93:9000/</sonar.host.url>
+                <sonar.login>admin</sonar.login>
+                <sonar.password>Adobe$aem38#</sonar.password>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
