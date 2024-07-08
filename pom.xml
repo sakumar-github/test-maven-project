@@ -24,7 +24,7 @@
 		<java.version>11</java.version>
 		<sonar.host.url>http://20.244.1.93:9000</sonar.host.url>
                 <sonar.login>admin</sonar.login>
-                <sonar.password>Adobe$aem38#</sonar.password>
+                <sonar.token>squ_aa04044128887c98ba94b096345ccfe42c8bae2a</sonar.token>
       
 	</properties>
 
